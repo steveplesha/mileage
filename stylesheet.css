@@ -1,0 +1,43 @@
+#container {
+  margin: 0 auto;
+}
+  
+#mileage {
+    padding-left:41.5%;
+  }
+  
+.hs, .ln, .ms, .jb, .ad, a.jb {
+ float: left;
+ width: 23%;
+ height: 20%;
+ padding: 2px;
+ margin: 3px;
+ text-align: center;
+ color: white;
+ font-size: 7em;
+ font-family: fenix;
+}
+
+a {
+  text-decoration: none;
+ }
+  
+.hs {
+ background-color: #2ecc71;
+}
+
+.ln {
+ background-color: #d35400;
+}
+
+.ms {
+ background-color: #3498db;
+}
+
+.jb {
+ background-color: #9b59b6;
+}
+
+.ad {
+ background-color: #34495e;
+}
